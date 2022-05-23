@@ -72,7 +72,7 @@ function speechToText() {
 
 // OPEN FEEDBACK --------------------------------------------------------
 function openFeedback() {
-    window.open('https://www.tinyurl.com/SalamaThanksFeedbackForm2', '_blank').focus();
+    window.open('https://docs.google.com/forms/d/e/1FAIpQLSdVvk7_fCVmLpPO8KCircRFGyYpQc_PxTfCi6-45idDWUGNqA/viewform', '_blank').focus();
 }
 
 
